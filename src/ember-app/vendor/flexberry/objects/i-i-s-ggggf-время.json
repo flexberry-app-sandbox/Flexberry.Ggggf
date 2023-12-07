@@ -1,0 +1,16 @@
+﻿{
+  "name": "IISGgggfВремя",
+  "emberObjectName": "i-i-s-ggggf-время",
+  "className": "Время",
+  "attrs": [
+    {
+      "name": "время",
+      "type": "date",
+      "flexberryType": "DateTime",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ]
+}

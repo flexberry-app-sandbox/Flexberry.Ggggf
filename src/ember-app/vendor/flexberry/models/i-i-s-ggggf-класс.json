@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISGgggfКласс",
+  "modelName": "i-i-s-ggggf-класс",
+  "className": "Класс",
+  "nameSpace": "IIS.Ggggf",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "прикол",
+      "type": "date",
+      "flexberryType": "DateTime",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "КлассE",
+      "modelName": "i-i-s-ggggf-класс",
+      "attrs": [
+        {
+          "name": "прикол",
+          "caption": "Прикол",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "КлассL",
+      "modelName": "i-i-s-ggggf-класс",
+      "attrs": [
+        {
+          "name": "прикол",
+          "caption": "Прикол",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
