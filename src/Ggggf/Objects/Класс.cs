@@ -80,7 +80,6 @@ namespace IIS.Ggggf
         public virtual System.DateTime Dhtvz()
         {
             // *** Start programmer edit section *** (Класс.Dhtvz method implementation)
-
             return null;
             // *** End programmer edit section *** (Класс.Dhtvz method implementation)
         }

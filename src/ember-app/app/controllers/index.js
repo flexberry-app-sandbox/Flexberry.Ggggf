@@ -22,7 +22,7 @@ export default Controller.extend({
             link: 'i-i-s-ggggf-класс-l',
             caption: i18n.t('forms.application.sitemap.ggggf.i-i-s-ggggf-класс-l.caption'),
             title: i18n.t('forms.application.sitemap.ggggf.i-i-s-ggggf-класс-l.title'),
-            icon: 'suitcase',
+            icon: 'paperclip',
             children: null
           }]
         }
